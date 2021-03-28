@@ -1,0 +1,25 @@
+/* Hover activaion in dropdown button */
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+/* header background color */
+
+header {
+    background-color: #d2c7d3;
+}
+
+/* footer bacground */
+
+footer{
+    background-color: #d2c7d3;
+}
+
+.nav {
+    background-color: #e5e5e5 !Important;
+}
+
+body {
+    background-color: #fdfdfd;
+}
